@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Release artifacts (ship these via GitHub Releases, not the repo)
+*.xcarchive
+*.app
+*.dmg
+*.zip

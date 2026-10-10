@@ -2,7 +2,8 @@
 //  ContentView.swift
 //  Breathe
 //
-//  Created by samuel Borg on 09/06/2026.
+//  Copyright © 2026 Studio 12. All rights reserved.
 //
-
-
+//  Legacy template view. Breathe runs as a MenuBarExtra (see BreatheApp.swift);
+//  this file is intentionally empty and kept only to satisfy the Xcode target.
+//
