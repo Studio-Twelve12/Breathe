@@ -45,3 +45,11 @@ disabled so it can read system-wide metrics and signal processes.
 
 ---
 *Maintained by Studio 12.*
+
+## Install
+
+**Terminal (no security warning):**
+
+    curl -L https://github.com/Studio-Twelve12/Breathe/releases/latest/download/Breathe-1.0.1.zip -o /tmp/Breathe.zip && ditto -x -k /tmp/Breathe.zip /Applications && open /Applications/Breathe.app
+
+**Browser download:** download the zip from Releases and unzip it. macOS will say it cannot verify the app. Click Done, open System Settings, Privacy and Security, scroll to Security and click Open Anyway.
