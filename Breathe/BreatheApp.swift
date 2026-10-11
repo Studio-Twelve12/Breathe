@@ -3,7 +3,7 @@
 //  Breathe
 //
 //  Originally developed by Lucid. Acquired by and maintained by Studio 12.
-//  Copyright © 2026 Studio 12. All rights reserved.
+//  Copyright © 2026 Studio 12. Released under the MIT License.
 //
 
 import SwiftUI
