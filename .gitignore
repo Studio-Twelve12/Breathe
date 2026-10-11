@@ -14,3 +14,4 @@ xcuserdata/
 *.app
 *.dmg
 *.zip
+.build/
